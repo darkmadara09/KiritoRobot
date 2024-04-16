@@ -54,7 +54,7 @@ APP_ID = int(os.environ.get("APP_ID", 12345))
 API_HASH = os.environ.get("API_HASH", "12345")
 DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://oaykvtmj:bsIGPV7wmId1x1CNH9eqxQVX5t25cHI3@manny.db.elephantsql.com/oaykvtmj")
 SQLALCHEMY_DATABASE_URI = os.environ.get("SQLALCHEMY_DATABASE_URI")
-BOT_ID = 5534493283
+BOT_ID = 7132821230
 
 # Credits Logger
 print(
